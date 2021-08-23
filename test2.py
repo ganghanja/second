@@ -1,2 +1,0 @@
-print('sdf')
-print('sdsdfsdff')
